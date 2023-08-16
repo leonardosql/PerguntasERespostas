@@ -1,0 +1,86 @@
+﻿<Window x:Class="PerguntasERespostas.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PerguntasERespostas"
+        mc:Ignorable="d"       
+        WindowStyle="None" ResizeMode="NoResize"  
+        WindowStartupLocation="CenterScreen" WindowState="Maximized"
+        Title="Menu" Height="754" Width="1280">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="beckground.jpg"/>
+        </Grid.Background>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Loaded="StackPanel_Loaded" Background="#FFD83D1C">
+            <Button x:Name="NovoJogo" Content="Novo Jogo" Width="300" Height="50" Margin="10" Click="NovoJogo_Click" FontSize="24" FontWeight="Bold" BorderBrush="{x:Null}">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="0"/>
+                        <GradientStop Color="#FF06F57E" Offset="0.636"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button x:Name="Categoria" Content="Cadastrar Categoria" Width="300" Height="50" Margin="10" Click="Categoria_Click" FontSize="24" FontWeight="Bold" BorderBrush="{x:Null}" >
+                <Button.OpacityMask>
+                    <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+                </Button.OpacityMask>
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="0"/>
+                        <GradientStop Color="#FF06F57E" Offset="0.636"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button x:Name="Jogadores" Content="Cadastrar Jogadores" Width="300" Height="50" Margin="10" Click="Jogadores_Click" FontSize="24" FontWeight="Bold" BorderBrush="{x:Null}">
+                <Button.OpacityMask>
+                    <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+                </Button.OpacityMask>
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="0"/>
+                        <GradientStop Color="#FF06F57E" Offset="0.636"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button x:Name="Perguntas" Content="Cadastrar Perguntas" Width="300" Height="50" Margin="10" Click="Perguntas_Click" FontSize="24" FontWeight="Bold" BorderBrush="{x:Null}">
+                <Button.OpacityMask>
+                    <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+                </Button.OpacityMask>
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="0"/>
+                        <GradientStop Color="#FF06F57E" Offset="0.636"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button x:Name="Sair" Content="Sair" Width="300" Height="50" Margin="10" Click="Sair_Click" FontSize="24" FontWeight="Bold" BorderBrush="{x:Null}" >
+                <Button.OpacityMask>
+                    <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HotTrackColorKey}}"/>
+                </Button.OpacityMask>
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="0"/>
+                        <GradientStop Color="#FF06F57E" Offset="0.636"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+        </StackPanel>
+        <Image HorizontalAlignment="Left" Height="100" Margin="250,578,0,0" VerticalAlignment="Top" Width="100" OpacityMask="Black"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Content="PROJETO BRIGADA ELABORADO PELOS TST'S: &#xD;&#xA;AILTON OLIVEIRA DE SOUZA &#xD;&#xA;ANDERSON CAMPOS&#xD;&#xA;SANDRA ROGERIA DE JESUS&#xD;&#xA;UANDERSON ALVES DE JESUS&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;" HorizontalAlignment="Center" Margin="480,609,480,49" VerticalAlignment="Center" FontWeight="Bold" Foreground="#FFDEF304" Height="96" Width="320">
+            <Label.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FF089B44" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.Background>
+            <Label.OpacityMask>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.OpacityMask>
+        </Label>
+    </Grid>
+</Window>

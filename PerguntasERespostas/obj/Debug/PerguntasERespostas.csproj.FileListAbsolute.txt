@@ -1,0 +1,222 @@
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasRespostas.s3db
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.exe.config
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.exe
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.pdb
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.dll
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarCategoria.g.cs
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarJogador.g.cs
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarPerguntas.g.cs
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\Jogo.g.cs
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem.g.cs
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem2.g.cs
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\Menu.g.cs
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\NovoJogo.g.cs
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\App.g.cs
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_Content.g.cs
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_MarkupCompile.cache
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_MarkupCompile.lref
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarCategoria.baml
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarJogador.baml
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarPerguntas.baml
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\Jogo.baml
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem.baml
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem2.baml
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\Menu.baml
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\NovoJogo.baml
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.g.resources
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.Properties.Resources.resources
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.GenerateResource.cache
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.CoreCompileInputs.cache
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.CopyComplete
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.exe
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.pdb
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasRespostas.s3db
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.exe.config
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.exe
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.pdb
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.dll
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csprojAssemblyReference.cache
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarCategoria.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarJogador.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarPerguntas.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\Jogo.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem2.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\Menu.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\NovoJogo.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\App.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_Content.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_MarkupCompile.cache
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_MarkupCompile.lref
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarCategoria.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarJogador.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarPerguntas.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\Jogo.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem2.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\Menu.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\NovoJogo.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.g.resources
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.Properties.Resources.resources
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.GenerateResource.cache
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.CopyComplete
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.exe
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.pdb
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasRespostas.s3db
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.exe.config
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.exe
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.pdb
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.dll
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csprojAssemblyReference.cache
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarCategoria.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarJogador.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarPerguntas.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\Jogo.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem2.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\Menu.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\NovoJogo.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\App.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_Content.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_MarkupCompile.cache
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_MarkupCompile.lref
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarCategoria.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarJogador.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarPerguntas.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\Jogo.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem2.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\Menu.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\NovoJogo.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.g.resources
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.Properties.Resources.resources
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.GenerateResource.cache
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.CopyComplete
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.exe
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Downloads\DOWNLOAD\PerguntasERespostas\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.pdb
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasRespostas.s3db
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.exe.config
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.exe
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.pdb
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.dll
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csprojAssemblyReference.cache
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarCategoria.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarJogador.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarPerguntas.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\Jogo.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem2.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\Menu.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\NovoJogo.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\App.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_Content.g.cs
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_MarkupCompile.cache
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_MarkupCompile.lref
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarCategoria.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarJogador.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarPerguntas.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\Jogo.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem2.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\Menu.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\NovoJogo.baml
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.g.resources
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.Properties.Resources.resources
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.GenerateResource.cache
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.CopyComplete
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.exe
+C:\Users\Anderson Campos\Dropbox\My PC (DESKTOP-H9BH4L7)\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.pdb
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\bin\Debug\semImagem.jpeg
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\bin\Debug\WpfAnimatedGif.dll
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\thale\Documents\MyTFS\PerguntasERespostas\PerguntasERespostas\bin\Debug\WpfAnimatedGif.xml
+G:\PerguntasERespostas\PerguntasERespostas\bin\Debug\semImagem.jpeg
+G:\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasRespostas.s3db
+G:\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.exe.config
+G:\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.exe
+G:\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.pdb
+G:\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.dll
+G:\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.EF6.dll
+G:\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.Linq.dll
+G:\PerguntasERespostas\PerguntasERespostas\bin\Debug\WpfAnimatedGif.dll
+G:\PerguntasERespostas\PerguntasERespostas\bin\Debug\WpfAnimatedGif.pdb
+G:\PerguntasERespostas\PerguntasERespostas\bin\Debug\WpfAnimatedGif.xml
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.AssemblyReference.cache
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarCategoria.g.cs
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarJogador.g.cs
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarPerguntas.g.cs
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\Jogo.g.cs
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem.g.cs
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem2.g.cs
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\Menu.g.cs
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\NovoJogo.g.cs
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\App.g.cs
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_Content.g.cs
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_MarkupCompile.cache
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_MarkupCompile.lref
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarCategoria.baml
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarJogador.baml
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarPerguntas.baml
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\Jogo.baml
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem.baml
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem2.baml
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\Menu.baml
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\NovoJogo.baml
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.g.resources
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.Properties.Resources.resources
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.GenerateResource.cache
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.CoreCompileInputs.cache
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.CopyComplete
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.exe
+G:\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.pdb
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\semImagem.jpeg
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasRespostas.s3db
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.exe.config
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.exe
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\PerguntasERespostas.pdb
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.dll
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.AssemblyReference.cache
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarCategoria.g.cs
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarJogador.g.cs
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarPerguntas.g.cs
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\Jogo.g.cs
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem.g.cs
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem2.g.cs
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\Menu.g.cs
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\NovoJogo.g.cs
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\App.g.cs
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_Content.g.cs
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_MarkupCompile.cache
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas_MarkupCompile.lref
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarCategoria.baml
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarJogador.baml
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\CadastrarPerguntas.baml
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\Jogo.baml
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem.baml
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\Mensagem2.baml
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\Menu.baml
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\NovoJogo.baml
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.g.resources
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.Properties.Resources.resources
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.GenerateResource.cache
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.csproj.CopyComplete
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.exe
+C:\Users\Anderson Campos\Desktop\PerguntasERespostas\PerguntasERespostas\obj\Debug\PerguntasERespostas.pdb

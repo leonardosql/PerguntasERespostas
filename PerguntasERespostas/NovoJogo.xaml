@@ -1,0 +1,23 @@
+﻿<Window x:Class="PerguntasERespostas.NovoJogo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PerguntasERespostas"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"        
+        Title="Novo Jogo" Height="425.523" Width="564.653" Closed="Window_Closed">
+    <Grid>
+        <ListBox x:Name="listBoxCategorias" Background="LightCyan"  SelectionMode="Single" HorizontalAlignment="Left" Height="75" Margin="30,177,0,0" DataContext="{Binding}" ItemsSource="{Binding}" VerticalAlignment="Top" Width="499"/>
+        <Label x:Name="label" FontWeight="Bold" Content="Selecione as categorias das perguntas" HorizontalAlignment="Left" Margin="30,146,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy" FontWeight="Bold"  Content="Selecione o modo de jogo:" HorizontalAlignment="Left" Margin="30,10,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radEliminativo" GroupName="jogo" Content="ELIMINAÇÃO POR PARTICIPANTE" HorizontalAlignment="Left" Margin="30,49,0,0" VerticalAlignment="Top" IsChecked="True" Height="19"/>
+        <RadioButton x:Name="radMaisAcertos" GroupName="jogo" Content="ELIMINAÇÃO POR PONTOS" HorizontalAlignment="Left" Margin="287,49,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="label_Copy1" TextWrapping="Wrap"  FontSize="10" HorizontalAlignment="Left" Margin="30,69,0,0" VerticalAlignment="Top" Height="77" Width="233"><Run Text="A cada rodada um participante "/><Run Text="é escolhido para responder a questão se responder errado ele "/><Run Text="é"/><Run Text=" eliminado"/><Run Text=" do quiz."/><Run Text=" E"/><Run Text="ste modo "/><Run Text="vence a equipe que tiver mais jogadores ao terminar as perguntas"/><Run Text=" ou todos"/><Run Text=" seus "/><Run Text="adversario "/><Run Text="eliminados"/><Run Text=" na partida"/><Run Text="."/></TextBlock>
+        <TextBlock x:Name="label_Copy2" TextWrapping="Wrap"  FontSize="10" HorizontalAlignment="Left" Margin="287,69,0,0" VerticalAlignment="Top" Height="56" Width="244"><Run Text="A cada rodada um participante "/><Run Text="é"/><Run Text=" sorteado para responder uma pergunda se a resposta escolhida estiver correta é somado um ponto para sua equipe se errar a equipe não pontua. "/></TextBlock>
+        <Label x:Name="label_Copy3" FontWeight="Bold" Content="Número máximo de perguntas:" HorizontalAlignment="Left" Margin="30,266,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtNumPerguntas" HorizontalAlignment="Left" Margin="221,266,0,99" Text="50" VerticalContentAlignment="center" Width="42"/>
+        <Button x:Name="btnInicias" Content="Iniciar" Margin="30,323,28,22" Click="NovoJogo_Click" FontSize="14" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

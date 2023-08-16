@@ -1,0 +1,5 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: PerguntasERespostas, Configuração: Release Any CPU ------
+1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2202,5): warning MSB3270: Houve uma incompatibilidade entre a arquitetura de processador do projeto que está sendo compilado "MSIL" e a arquitetura de processador da referência "System.Data.SQLite", "x86". Essa incompatibilidade poderá causar falhas de runtime. Considere a alteração da arquitetura de processador de destino de seu projeto por meio do Configuration Manager de forma a alinhar as arquiteturas de processador entre seu projeto e as referências ou obtenha uma dependência sobre referências com uma arquitetura de processador que corresponda à arquitetura de processador de destino de seu projeto.
+1>  PerguntasERespostas -> G:\PerguntasERespostas\PerguntasERespostas\bin\Release\PerguntasERespostas.exe
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========
